@@ -1,0 +1,16 @@
+{
+  "name": "chordloops-ui-patch",
+  "version": "1.0.0",
+  "description": "Adds letter notation alongside the numeral one and some basic UI to handle it",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
